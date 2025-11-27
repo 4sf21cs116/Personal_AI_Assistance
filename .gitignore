@@ -1,0 +1,15 @@
+# Node/React
+node_modules/
+build/
+.env
+
+# Python/Flask
+__pycache__/
+venv/
+*.pyc
+*.pyo
+instance/
+.env
+
+# VS Code
+.vscode/
