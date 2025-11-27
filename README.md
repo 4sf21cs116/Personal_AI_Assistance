@@ -29,7 +29,7 @@ This project provides a context-aware AI assistant powered by **Gemini 2.5 Flash
 
 | Layer      | Technology       |
 |------------|-----------------|
-| Frontend   | React.js         |
+| Frontend   | React.js + vite       |
 | Backend    | Flask (Python)   |
 | AI Model   | Gemini 2.5 Flash API |
 
