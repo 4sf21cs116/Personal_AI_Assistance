@@ -38,16 +38,13 @@ This project provides a context-aware AI assistant powered by **Gemini 2.5 Flash
 ## 📸 Screenshots
 
 ### 🏠 Home 
-(Add screenshot here)  
-`home.png`
+![Home](home.png)
 
 ### 🎛️ Mode Selection 
-(Add screenshot here)  
-`mode.png`
+![mode selection](mode.png)
 
 ### 💬 AI Response 
-(Add screenshot here)  
-`response.png`
+![AI response](response.png)
 
 ---
 
